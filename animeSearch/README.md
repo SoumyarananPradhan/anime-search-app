@@ -1,4 +1,4 @@
-# ⛩️ AnimeSearch
+# Anime⛩️Search
 
 > A robust, neubrutalist anime discovery tool built with React and the Jikan API.
 
