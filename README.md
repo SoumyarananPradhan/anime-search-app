@@ -2,8 +2,6 @@
 > [**🔴 LIVE DEMO**](https://searchanim.netlify.app/)
 > A robust, neubrutalist anime discovery tool built with React and the Jikan API.
 
-![AnimeSearch Preview](public/favicon.ico)
-
 ## 📖 About
 AnimeSearch is a modern web application that allows users to search the vast Jikan (MyAnimeList) database to find their next favorite show. It features a bold **Neubrutalist design**, a custom "Torii Gate" logo, and a seamless user experience with optimized performance.
 
