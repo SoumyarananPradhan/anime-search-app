@@ -1,4 +1,4 @@
-# ⛩️ AnimeSearch
+# Anime⛩️Search
 > [**🔴 LIVE DEMO**](https://searchanim.netlify.app/)
 > A robust, neubrutalist anime discovery tool built with React and the Jikan API.
 
